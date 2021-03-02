@@ -2,6 +2,7 @@
 
 ## 1. Setup
 
+0. Install vega-lite through conda: ```conda install -c conda-forge vega-cli vega-lite-cli```
 1. Create the environment
 ```conda env create -f requirements.yml```
 2. Register the kernel with jupyter
